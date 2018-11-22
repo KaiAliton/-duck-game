@@ -1,36 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Dialogue>
   <ShowIntroduction>
-    <Line>Hello, and welcome to Duck Channel Sports!</Line>
-	<Line>Welcome, to another edition of Duck Channel Sports!</Line>
-	<Line>Time for another exciting episode of Duck Channel Sports!</Line>
-	<Line>This is it! It's Duck Channel Sports!</Line>
+    <Line>Здравствуйте, приветствуем вас на канале Duck Sports!</Line>
+	<Line>Приветствуем вас на очередном выпеске Duck Sports!</Line>
+	<Line>Время для очередного захватывающего эпизода Duck Sports!</Line>
+	<Line>Это так! Это Duck Sports!</Line>
   </ShowIntroduction>
   
   <NSIntroduction>
-    <Line>It's DUCK CHANNEL SPORTS! I'm your sports caster |RED|John Mallard|WHITE|!</Line>
-	<Line>|RED|John Mallard|WHITE| here with another exciting Duck Game recap!</Line>
+    <Line>Это Duck Sports! Я ваш спортивный трейнер |RED|John Mallard|WHITE|!</Line>
+	<Line>|RED|John Mallard|WHITE| здесь с очередной захватывающей игрой</Line>
   </NSIntroduction>
   
   
   <NSWinner>
-	<Line>|RED|%NAME%|WHITE| won, with a %DATA2% point lead!*</Line>
-	<Line>The win goes to |RED|%NAME%|WHITE|!*</Line>
+	<Line>|RED|%NAME%|WHITE| Победа с %DATA2% очками впереди!*</Line>
+	<Line>Победа достается |RED|%NAME%|WHITE|!*</Line>
   </NSWinner>
   
   <NSShowHighlights>
-	<Line>Now let's watch some highlights!</Line>
-	<Line>Let's watch a recap of our computers favorite matches!</Line>
-	<Line>The computer has picked some highlights for us.</Line>
+	<Line>Теперь посмотрим некоторые моменты!</Line>
+	<Line>Давайте посмотрим на наши любимые моменты!</Line>
+	<Line>Компьютер подобрал для нас некоторые моменты.</Line>
   </NSShowHighlights>
   
   <NSAfterHighlights>
-    <Line>Wow!</Line>
-	<Line>BLAMO!</Line>
-	<Line>WALABAM KABAM!</Line>
-	<Line>BAZOOM!</Line>
-	<Line>Action Action Action!</Line>
-	<Line>Christos!</Line>
+    <Line>Вай!</Line>
+	<Line>Ничерта!</Line>
+	<Line>Валам Кабам!</Line>
+	<Line>Зауууузаа!</Line>
+	<Line>Пиздос, вот это экшен!</Line>
+	<Line>ХВ как говорится!</Line>
   </NSAfterHighlights>
   
   <NSHighlightsRating>
